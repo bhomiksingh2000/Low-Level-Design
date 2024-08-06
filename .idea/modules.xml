@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Low-Level-Design.iml" filepath="$PROJECT_DIR$/Low-Level-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vending-Machine/Vending-Machine.iml" filepath="$PROJECT_DIR$/Vending-Machine/Vending-Machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/parking-lot/parking-lot.iml" filepath="$PROJECT_DIR$/parking-lot/parking-lot.iml" />
     </modules>
   </component>
